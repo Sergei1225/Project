@@ -1,147 +1,25 @@
-
 "use strict";
 
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
+let numberOfFilms = +prompt('How much films you watched?');
 
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
+let personalMovieDB = {
+    count: numberOfFilms,
+    movies: {
 
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
+    }, 
+    actors: {},
+    genres: [],
+    privat: false
+};
 
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
+let firstAnswer = prompt('One of last films?');
+let firstAnswerTwo = prompt('One of last films?');
+let secondAnswer = +prompt('Do you like this film?');
+let secondAnswerTwo = +prompt('Do you like this film?');
 
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
-"use strict";
-
-let jane = ' fucking world';
-let janeOne = `Fuckyou${jane}`;
-console.log(janeOne);
-function hoh () {
-    alert('hello');
-}
+let movies = {
+    logan: 8.1
+};
+personalMovieDB.movies[firstAnswer] = secondAnswer; 
+personalMovieDB.movies[firstAnswerTwo] = secondAnswerTwo; 
 
