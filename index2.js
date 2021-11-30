@@ -4,14 +4,38 @@
 let jane = ' fucking world';
 let janeOne = `Fuckyou${jane}`;
 console.log(janeOne);
+function hoh () {
+    alert('hello');
+}
+"use strict";
 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
-var nethbhb = 665656; 
+let jane = ' fucking world';
+let janeOne = `Fuckyou${jane}`;
+console.log(janeOne);
+function hoh () {
+    alert('hello');
+}
+"use strict";
+
+let jane = ' fucking world';
+let janeOne = `Fuckyou${jane}`;
+console.log(janeOne);
+function hoh () {
+    alert('hello');
+}
+"use strict";
+
+let jane = ' fucking world';
+let janeOne = `Fuckyou${jane}`;
+console.log(janeOne);
+function hoh () {
+    alert('hello');
+}
+"use strict";
+
+let jane = ' fucking world';
+let janeOne = `Fuckyou${jane}`;
+console.log(janeOne);
+function hoh () {
+    alert('hello');
+}
